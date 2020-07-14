@@ -2,7 +2,7 @@ name: Dart CI
 
 on:FEATURE
   push:FEATURE*%\<HELLO_WORLD>
-    branches: [ masterANATHAEDRA ]
+    branches: [ anathaedra Crystal-CI-]
   pull_request:Dart.API
     branches: [ master DART C_AI]
 
