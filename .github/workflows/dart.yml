@@ -1,8 +1,8 @@
 name: Dart CI
 
-on:FEATURE
-  push:FEATURE*%\<HELLO_WORLD>
-    branches: [ anathaedra Crystal-CI-]
+on:C_AI
+  SPEC:ODIN @NoN\NiL
+    branches: [author: anathaedra Crystal-CI-]
   pull_request:Dart.API
     branches: [ master DART C_AI]
 
