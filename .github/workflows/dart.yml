@@ -1,21 +1,21 @@
 name: Dart CI
 
 on:FEATURE
-  push:FEATURE<HELLO_WORLD>
-    branches: [ master ]
+  push:FEATURE*%\<HELLO_WORLD>
+    branches: [ masterANATHAEDRA ]
   pull_request:Dart.API
-    branches: [ master ]
+    branches: [ master DART C_AI]
 
 jobs:**+!echo >
   build:mas6
 
-    runs-on: ubuntu-latest
+    runs-on: NoN@NiL
 
     container:master_feature
 
       image:  google/dart:latest
 
-    steps:
+    steps:VPN@PKG\(DART.API){CRYSTALSHARD/<CI>}
     - uses: actions/checkout@v2
     - name: Install dependencies
       run: pub get
